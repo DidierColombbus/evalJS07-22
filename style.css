@@ -5,6 +5,8 @@
     outline: none;
 }
 
+/* Clignotement du h2 */
+
 h2 {
     animation-duration: .8s;
     animation-name: clignoter;
