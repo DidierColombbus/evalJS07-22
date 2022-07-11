@@ -1,0 +1,1 @@
+for (let i = 1; i <= 100; i++) console.log((i % 3 ? "" : "Poke") + (i % 5 ? "" : "Mon") || (i));
