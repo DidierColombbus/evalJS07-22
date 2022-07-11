@@ -12,6 +12,6 @@ document.querySelector('h2').innerHTML = 'Vous avez perdu ! Ahaha !! ahah ! ah..
 let titre = document.querySelector('h2')
 
 titre.style.borderColor = 'yellow';
-titre.style.textColor = 'orange';
+titre.style.color = 'orange';
 
 
